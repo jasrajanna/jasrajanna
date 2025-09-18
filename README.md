@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jasrajanna
-- 👀 I’m interested in  coding
+- 👀 I’m interested in coding,data analysis,travel
 - 🌱 I’m currently learning Bsc Computer science 
-- 💞️ I’m looking to collaborate on web development and app development 
+- 💞️ I’m looking to collaborate on data analysis,web development and app development 
 - 📫 How to reach me instagram- jasr_ajann
 - 😄 Pronouns: ...
-- ⚡ Fun fact: "world is yours😉"
+- ⚡ Fun fact: "Try to change"
 
 <!---
 jasrajanna/jasrajanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
